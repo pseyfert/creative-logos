@@ -16,9 +16,12 @@ CC-BY-SA-4.0.
 | ---------------------------------------------- | ----------------- | ------- |
 | ![`user-1633249.svg`](orgs/user-1633249.svg)        | [pixabay/TukTukDesign](https://pixabay.com/en/user-person-people-profile-account-1633249/) | [![CC0](license_logos/cc-zero.png)](licenses/CC0.txt) |
 | ![`Root6SplashEXT.xpm`](orgs/Root6SplashEXT.xpm)    | [root-project/root](https://root.cern) | [LGPL v2.1](licenses/LGPL.txt) |
+| ![`bash-148836.svg`](./orgs/bash-148836.svg) | [pixabay/OpenClipart-Vectors](https://pixabay.com/en/bash-command-line-linux-shell-148836/) | [![CC0](license_logos/cc-zero.png)](licenses/CC0.txt) |
 
 # outputs
 
-| image           | for repo |
-| --------------- | -------- |
-| ![`root-user.svg.png`](outputs/root-user.svg.png) | [pseyfert/root-user](https://github.com/pseyfert/root-user) |
+| image           | for repo | comment |
+| --------------- | -------- | ------- |
+| ![`root-user.svg.png`](outputs/root-user.svg.png) | [pseyfert/root-user](https://github.com/pseyfert/root-user) | |
+| ![`lb-zsh.png`](outputs/lb-zsh.png) | [pseyfert/lb-zsh](https://github.com/pseyfert/lb-zsh) | double licensed under [GPL v3](licenses/GPL.txt) |
+| ![`lb-bash.svg`](outputs/lb-bash.svg) | [pseyfert/lb-bash](https://github.com/pseyfert/lb-bash) | double licensed under [GPL v3](licenses/GPL.txt) |
